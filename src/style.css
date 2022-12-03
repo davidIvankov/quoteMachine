@@ -1,0 +1,35 @@
+#root {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#F7B42C, #FC575E);
+    margin-top: -20px
+}
+
+#quote-box {
+    margin: auto;
+    height: auto;
+    width: 80vw;
+    background: linear-gradient(#C8C85E,
+            #D8D8AC);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+#new-quote {
+    width: 80%;
+}
+
+#tweet-quote {
+    font-size: 30px
+}
+
+#title {
+    padding-top: 30px
+}
+
+.btn{
+    margin-bottom: 30px
+}
+;
